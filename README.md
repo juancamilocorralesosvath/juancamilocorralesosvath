@@ -20,7 +20,7 @@ I am a systems software engineering student passionate about technology, with ha
 
 ## About Me
 
-- 👨‍🎓 Systems Engineering Student at ICESI University
+- 👨‍🎓 Systems Software Engineering Student at ICESI University
 - 💻 Web Developer with work experience on frontend projects.
 - 🚀 Passionate about learning new technologies and tackling technological challenges.
 
